@@ -1,8 +1,12 @@
-#### Website
+##### Website
 
 [EMPAYG.com](https://empayg.com)
 
-### Read
+##### Email
+
+[help@empayg.com](mailto:help@empayg.com)
+
+## Read
 
 [FAQs](https://at.empayg.com/faqs)
 
@@ -11,7 +15,3 @@
 [Terms of Service](https://at.empayg.com/terms)
 
 [Privacy Policy](https://at.empayg.com/privacy)
-
-#### Email
-
-[help@empayg.com](mailto:help@empayg.com)
