@@ -16,6 +16,8 @@
 
 [Privacy Policy](https://at.empayg.com/privacy)
 
+[Media](https://at.empayg.com/media)
+
 ## News
 
 [Lets start a new web!](https://at.empayg.com/posts/001)
