@@ -18,4 +18,4 @@
 
 ## News
 
-[Lets start a new web!](https://at.empayg.com/X01)
+[Lets start a new web!](https://at.empayg.com/posts/001)
