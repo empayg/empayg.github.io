@@ -12,12 +12,10 @@ We hereby provide content for usage in relation with EMPAYG. However, nothing he
 
 You can contact us for your specific requirements at:
 
-[media@empayg.com](mailto:media@empayg.com)
+[business@empayg.com](mailto:business@empayg.com)
 
 #### Social Accounts
 
 Here are links to the offical social accounts:
 
 Twitter: [@EMPAYG](https://twitter.com/EMPAYG)
-
-GitHub: [@EMPAYG](https://github.com/empayg)
