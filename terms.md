@@ -1,14 +1,13 @@
 # EMPAYG Terms of Service
 
-Payger Ltd is a company incorporated under the laws of England and Wales with company number 11351300 ("EMPAYG", "we", "us", or "our" as applicable). 
-Our registered office is 71-75 Shelton Street, Covent Garden, London, WC2H 9JQ, United Kingdom.
+Elfreds Commerce LLP is a body corporate incorporated under the laws of India with LLPIN AAP-4592 ("EMPAYG", "we", "us", or "our" as applicable). 
 
-You can contact us by email at contact@empayg.com, or any other mode provided by us.
+You can contact us by email at business@empayg.com, or any other mode provided by us.
 
-The Agreement
-This is a legal agreement (the “Agreement”) between Payger Ltd and user (or the legal guardian/representative on behalf of the user if user is not capable of entering into agreement on its own) of any service provided by us (the “Services”).
+### The Agreement
+This is a legal agreement (the “Agreement”) between Elfreds Commerce LLP and user (or the legal guardian/representative on behalf of the user if user is not capable of entering into agreement on its own) of any service provided by us (the “Services”).
 
-This Agreement is governed by English law. Any dispute between you and us in connection with your EMPAYG Account and/or this Agreement may be brought in the courts of England and Wales.
+This Agreement is governed by Indian law. Any dispute between you and us in connection with your EMPAYG Account and/or this Agreement may be brought in the courts of India.
 
 This Agreement is effective upon the date you first access or use the Services and continues until terminated by you or EMPAYG. You may terminate this Agreement by closing your EMPAYG Account at any time. If you use the Services again or register for another EMPAYG Account, you are consenting to this Agreement. We may terminate this Agreement or close your EMPAYG Account at any time for any reason by providing you Notice.
 
@@ -22,7 +21,7 @@ We may transfer this Agreement to someone else. You may not transfer, assign, mo
 
 If any provision or portion of this Agreement is held to be invalid or unenforceable under Law, then it will be reformed and interpreted to accomplish the objectives of such provision to the greatest extent possible, and all remaining provisions will remain in full force and effect.
 
-Usage
+### Usage
 Before using the Services, you (the “user”) must register with EMPAYG and create an account (a “EMPAYG Account”).
 
 “Transactions” refers to any transfers between users where one party is consumer of the web service/content and the other party is provider of the same. EMPAYG acts as a facilitator (and not mediator) of Transactions.
@@ -107,7 +106,7 @@ We take breach of the Agreement or any policy seriously. We may take the followi
 
 We may suspend or close your EMPAYG Account if you violate the Agreement or any other policy.
 
-Data
+### Data
 The content served by you is your responsibility. We can collect and analyse your content along with other information at web locations where our services are deployed to check for compliance.
 
 These content standards apply to any material you contribute to our Services or serve to your users/customers using our Services.
@@ -118,7 +117,7 @@ It must:
 
 (b) be genuinely held (where opinions are stated); and
 
-(c) comply with applicable law in the UK and in any country from which they are posted or to which they relate.
+(c) comply with applicable law in the India and in any country from which they are posted or to which they relate.
 
 It must not:
 
@@ -144,12 +143,12 @@ EMPAYG maintains commercially reasonable administrative, technical, and physical
 
 You are solely responsible for the security of any Data on your website, your servers, in your possession, or that you are otherwise authorised to access or handle. If you do not on request provide evidence of such compliance to our satisfaction, we may suspend transactions on your account or terminate this Agreement.
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your payment order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing.
+The data that we collect from you may be transferred to, and stored at, a destination outside India. It may also be processed by staff operating outside India who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your payment order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing.
 
-Payments
-A user is charged on signup and subsequently whenever the balance hits zero. The charge is automatic and the user is notified via email for the same. We maintain a prepaid balance to ensure all the Transactions created are paid. No interest is provided on balance maintained in you account.
+### Payments
+A user can be charged prior, during, or post usage of their EMPAYG account on any partner website. The charge is automatic and the user is notified via email for the same. We may maintain a prepaid balance to ensure all the Transactions created are paid. No interest is provided on balance maintained in you account.
 
-Any unused balance in your account is fully refundable. A request for refund is treated as a request for account closure as a positive balance is necessary to use our services. To prevent frauds, refunds are available only on the payment method used for the last payment to your EMPAYG Account.
+Any unused balance in your account is fully refundable. A request for refund may be treated as a request for account closure as a positive balance may be necessary to use our services in certain cases. To prevent frauds, refunds are available only on the payment method used for the last payment to your EMPAYG Account.
 
 In case of an unauthorised payment or mistake due to our error, we shall at your request refund the payment amount including all fees deducted by us.
 
@@ -161,11 +160,11 @@ We may add or remove our Services Providers or payment methods at any time. Your
 
 You authorise us to instruct Financial Services Providers to hold, receive, and disburse funds on your behalf; and to instruct such Financial Services Providers as to how and when funds are transferred to you. You also authorise us to designate which Financial Services Providers may hold settlement funds, on deposit and in trust, pending transfer of funds to you in accordance with the terms of this Agreement.
 
-Transfers may be initiated by you to or from your EMPAYG Account to a Financial Services Provider that you designate in the Dashboard (the “Payout Account”). All Transfers to your Payout Account will exclude Fees, Fines, and amounts owed to us for any reason. You affirm that you are authorised to initiate Transfers to and from the Payout Account.
+Transfers may be initiated by you to or from your EMPAYG Account to a Financial Services Provider that you designate in the Dashboard (the “Payout Account”). You affirm that you are authorised to initiate Transfers to and from the Payout Account.
 
 We reserve the right to change the Payout Schedule or to suspend Payments to you. If we exercise our right to withhold a Payout for any reason, we will communicate the general reason for withholding the Payout and give you a timeline for releasing the funds.
 
-Liability
+### Liability
 EMPAYG is a facilitator and not a mediator. Consumers have a direct relation with providers. Both may have rights and liabilities towards each other that are available without intervention of EMPAYG.
 
 We have no control over websites linked to and from our Website. We assume no responsibility for their content or any loss or damage that may arise from your use of them.
