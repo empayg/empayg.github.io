@@ -52,7 +52,7 @@ We use your information in the following ways:
 
 (b) to assist us in conducting or co-operating in investigations of fraud or other illegal activity where we believe it is reasonable and appropriate to do so;
 
-The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+The information that we collect from you may be transferred to, and stored at, a destination outside India. It may also be processed by staff operating outside India who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
 ### You rights over your personal information
 
