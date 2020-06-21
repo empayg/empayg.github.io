@@ -2,14 +2,14 @@
 
 Elfreds Commerce LLP is a body corporate incorporated under the laws of India with LLPIN AAP-4592 ("EMPAYG", "we", "us", or "our" as applicable). 
 
-You can contact us by email at business@empayg.com, or any other mode provided by us.
+You can contact us by email at business@elfreds.com, or any other mode provided by us.
 
 ### The Agreement
 This is a legal agreement (the “Agreement”) between Elfreds Commerce LLP and user (or the legal guardian/representative on behalf of the user if user is not capable of entering into agreement on its own) of any service provided by us (the “Services”).
 
 This Agreement is governed by Indian law. Any dispute between you and us in connection with your EMPAYG Account and/or this Agreement may be brought in the courts of India.
 
-This Agreement is effective upon the date you first access or use the Services and continues until terminated by you or EMPAYG. You may terminate this Agreement by closing your EMPAYG Account at any time. If you use the Services again or register for another EMPAYG Account, you are consenting to this Agreement. We may terminate this Agreement or close your EMPAYG Account at any time for any reason by providing you Notice.
+This Agreement is effective upon the date you first access or use of the Services and continues until terminated by you or EMPAYG. You may terminate this Agreement by closing your EMPAYG Account at any time. If you use the Services again or register for another EMPAYG Account, you are consenting to this Agreement. We may terminate this Agreement or close your EMPAYG Account at any time for any reason by providing you Notice.
 
 You agree that you will continue to be responsible for all obligations related to your EMPAYG Account even after it is closed.
 
@@ -22,7 +22,7 @@ We may transfer this Agreement to someone else. You may not transfer, assign, mo
 If any provision or portion of this Agreement is held to be invalid or unenforceable under Law, then it will be reformed and interpreted to accomplish the objectives of such provision to the greatest extent possible, and all remaining provisions will remain in full force and effect.
 
 ### Usage
-Before using the Services, you (the “user”) must register with EMPAYG and create an account (a “EMPAYG Account”).
+Before using the Services, you (the “user”) must register with EMPAYG and create an account (an “EMPAYG Account”).
 
 “Transactions” refers to any transfers between users where one party is consumer of the web service/content and the other party is provider of the same. EMPAYG acts as a facilitator (and not mediator) of Transactions.
 
@@ -76,7 +76,7 @@ We usually contact you via email. For this purpose, you must at all times mainta
 
 You agree that your electronic consent will have the same legal effect as a physical signature. You also agree that electronic delivery of a Notice has the same legal effect as if we provided you with a physical copy. We will consider a Notice to have been received by you within 24 hours of the time a Notice is either posted to our website or emailed to you.
 
-During the term of this Agreement, you may publicly identify us as the provider of the Services to you and we may publicly identify you as a EMPAYG user. If you do not want us to identify you as a user, please contact us. Neither you nor we will imply any untrue sponsorship, endorsement, or affiliation between you and EMPAYG. Upon termination of your EMPAYG Account, both you and EMPAYG will remove any public references to our relationship from our respective websites.
+During the term of this Agreement, you may publicly identify us as the provider of the Services to you and we may publicly identify you as an EMPAYG user. If you do not want us to identify you as a user, please contact us. Neither you nor we will imply any untrue sponsorship, endorsement, or affiliation between you and EMPAYG. Upon termination of your EMPAYG Account, both you and EMPAYG will remove any public references to our relationship from our respective websites.
 
 Except as expressly stated in this Agreement, nothing in this Agreement serves to establish a partnership, joint venture, or other agency relationship between you and us, or with any Financial Services Provider.
 
@@ -146,9 +146,9 @@ You are solely responsible for the security of any Data on your website, your se
 The data that we collect from you may be transferred to, and stored at, a destination outside India. It may also be processed by staff operating outside India who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your payment order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing.
 
 ### Payments
-A user can be charged prior, during, or post usage of their EMPAYG account on any partner website. The charge is automatic and the user is notified via email for the same. We may maintain a prepaid balance to ensure all the Transactions created are paid. No interest is provided on balance maintained in you account.
+A user can be charged prior, during, or post usage of their EMPAYG account on any partner website. The charge may be manual or automatic and the user shall notified via email for the same. We may maintain a prepaid balance to ensure all the Transactions created are paid. No interest is provided on balance maintained in your account.
 
-Any unused balance in your account is fully refundable. A request for refund may be treated as a request for account closure as a positive balance may be necessary to use our services in certain cases. To prevent frauds, refunds are available only on the payment method used for the last payment to your EMPAYG Account.
+Any unused balance in your account is fully refundable. A request for refund may be treated as a request for account closure as a positive balance may be necessary to use our services in certain cases. To prevent frauds, refunds may be available only on the payment method used for the last payment to your EMPAYG Account.
 
 In case of an unauthorised payment or mistake due to our error, we shall at your request refund the payment amount including all fees deducted by us.
 
