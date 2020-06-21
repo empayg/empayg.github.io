@@ -1,16 +1,16 @@
 # Documentation
 
-The docs guide you through all you need to know to integrate EMPAYG in your website and provide a paid option to your users. We recommend you to read it completely. We encourage you to contact us at support@empayg.com if you need any further assistance.
+The docs guide you through all you need to know to integrate EMPAYG in your website and provide a paid option to your users. We recommend you to read it completely. We encourage you to contact help@empayg.com if you need any further assistance.
 
-What is EMPAYG?
+****What is EMPAYG?****
 
-EMPAYG is a monetisation platform that allows creators to provide a paid option for their web content/service. You can decide the rate you want to charge the users. Users are charged based of the duration of their session.
+EMPAYG is a monetisation platform that allows creators to provide a paid option for their web content/service. You can decide the rate you want to charge the users. Users are charged based on the duration of their session.
 
-How does it work?
+****How does it work?****
 
 EMPAYG requires any web service using EMPAYG's service to load a JavaScript widget on the webpage to enable its use. The widget is responsible for collecting user credentials from the webpage and starting the session. The web service gets access to session changes through HTML classes and JavaScript events that can be used to make necessary changes to webpage to make effect of login/logout, which may include changing display of advertisements or content load, by web service. The widget also reports, at periodic intervals, the time for which the web service has been used. The charge is calculated based on the duration for which the web service is used by the user as reported by the widget.
 
-EMPAYG advantage
+****EMPAYG advantage****
 
 i.	You can integrate and provide a paid option along with serving advertisements to non-paying users. Empower the users to choose how they want to use the service.
 
@@ -18,31 +18,27 @@ ii.	You can provide your content at the price you decide instead of standard adv
 
 iii.	Higher adoption due to lack of any upfront paywall. Even as a paid option, users are charged per their usage.
 
-iv.	You can customise how you serve with EMPAYG. You can provide an ad-free option or premium content.
+iv.	You can customise how you serve with EMPAYG. You can provide just an ad-free option or premium content for users.
 
 v.	Setting up your website with EMPAYG is easier that setting up advertisements for the website.
 
 vi.	Users do not have to create separate account to use your service. Users with EMPAYG account can discover, login and start using your service directly.
 
-vii.	We manage accounts and payments so you don’t have to. Payments are secured by Stripe.
+vii.	We manage accounts and payments so you don’t have to.
 
 viii.	The EMPAYG widget takes up only a ribbon space on website that can be positioned per your preference.
 
-Units
+****Units****
 
 All the transactions and payments are processed and presented in USD cents.
 
 All the session are tracked and charges calculated on the basis of duration for which service is used in seconds.
 
-Tips for creating services
+****Tips for creating services****
 
-You can create two types of services with EMPAYG currently,
+User is charged at a rate but a monthly limit exists. So any usage beyond the limit is not charged. Ideal where high value users need to be encouraged with a fix amount of charge. Users will be charged at the rate if their usage is less than standard. It is advised to set a cap where competitors provide fixed monthly-paid plans.
 
-rate. A standard rate is charged to the user. Ideal where no monthly limits are to be set.
-
-cap. User is charged at a rate but a monthly limit exists. So any usage beyond the limit is not charged. Ideal where high value users need to be encouraged with a fix amount of charge. Users will be charged at the rate if their usage is less than standard. It is advised to set a cap service where competitors provide fixed monthly-paid plans.
-
-EMPAYG's charge of service
+****EMPAYG's charge of service****
 ```
 user’s charge * 0.8 = service's payout
 ```
@@ -52,7 +48,7 @@ However, we estimate a 2% loss of sessions' data (partial or complete) due to di
 
 You should integrate only one service on a website as user login is valid across all webpages on a domain and charge is based on aggregate time spent on website. Contact us for further details or queries.
 
-Creating a service
+****Creating a service****
 
 i.	Signup for a EMPAYG Account.
 
@@ -60,11 +56,9 @@ ii.	Go to /port
 
 iii.	Go to /create to create a service.
 
-iv.	Connect or create your Stripe account, which will be used to pay out the revenues from the service you create.
+iv.	Create a new service.
 
-v.	Create a new service.
-
-vi.	Integrate the service in your website as the details given below.
+v.	Integrate the service in your website as per the details given below.
 
 Widget script code
 ```html
@@ -91,6 +85,7 @@ Managing display of elements
 </div>
 ```
 EMPAYG enables you to manage content display using classes for elements. Use empayg-infomercial for elements that are hidden after login. Use empayg-content for elements that are presented after login. You do not need to apply any class to consistent content that is not affected by login. Apply empayg-protect to elements that you want to protect from interactions such as selection, copy, download, pointing, and saving. However, don't use empayg-protect on elements where user clicks on link, provides input, or for similar interactions. EMPAYG ensures protection from any breach that may be caused to alter the display of contents.
+
 Advanced content load
 ```javascript
 element.addEventListener('unfold', function() { postmate({'session':cookier('empayguid')}, 'https://empayg.net/q/session').then(function(reply) {if (reply=='UNIQUE-REVENUE-ID') {
@@ -102,5 +97,5 @@ element.addEventListener('fold', function() {
 ```
 For advanced applications, you can add listeners to our open and close events. EMPAYG broadcasts 'unfold' when a user successfully logins and 'fold' when a logout happens, either due to trigger by user or technical discrepancy. Note that such event listeners should be registered after loading the script code. Add the script code above it in the html file.
 
-Remember if you face any issue, we are always available at support@empayg.com to assist you. Happy payging!
+Remember if you face any issue, youu can always reach help@empayg.com for assistance. Happy payging!
 
