@@ -2,7 +2,7 @@
 
 You can contact us for your specific requirements at:
 
-[business@empayg.com](mailto:business@empayg.com)
+[help@empayg.com](mailto:help@empayg.com)
 
 #### Social Accounts
 
