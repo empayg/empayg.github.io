@@ -20,13 +20,13 @@ If you find the description or service misleading, you can report it to us at su
 
 A charge is based of how much time (in seconds) you use a service for and the charge rate of the service. Every service can charge their own rate. You should look out for the rate given in the widget at the time of login to know about the charge for every specific service you use. Please note, services may change their connected service or rate on the same webpage. Keep yourself aware of the rate as you login every time.
 
-**How does service marked as ‘cap’ work?**
+**How does 'cap' of services work?**
 
-Services marked as ‘cap’ have a monthly limit on the charge. So you are only charged for the time duration until you hit the limit. This prevent very high charge amount for heavy users. Users do not do anything but creators create services as ‘cap’.
+Services have a monthly limit on the charge. So you are only charged for the time duration until you hit the limit. This prevent very high charge amount for heavy/regular users. Users do not have to do anything but creators set the ‘cap’.
 
 **What is the currency of charge?**
 
-All the charges and payments are processed and presented in USD cents only. This is done to standardise the charges and ease mental accounting for users. Kindly keep the comparative local pricing in mind while using any service to estimate the cost and value of service to you.
+All the charges and payments are processed and presented in USD cents only. This is done to standardise the charges and accounting. Kindly keep the comparative local pricing in mind while using any service to estimate the cost and value of service to you.
 
 **Why am I required to keep a prepaid balance?**
 
@@ -42,4 +42,4 @@ We do not store you details on the partner services’ websites for security pur
 
 **Where are more of the FAQs?**
 
-They are being prepared. BTW, you know you can always contact us at support@empayg.com if you need any assistance. Happy payging!
+They are being prepared. BTW, you know you can always contact help@empayg.com if you need any assistance. Happy payging!
