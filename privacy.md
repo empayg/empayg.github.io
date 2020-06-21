@@ -2,7 +2,7 @@
 
 This policy explains what you can expect from us and what we need from you in relation to your personal data. Please read this carefully as this policy is legally binding when you use any service provided by Elfreds Commerce LLP (the “Services”).
 
-For the purpose of the relevant data protection regulations, the body corporate in charge of your information is Elfreds Commerce LLP of India (LLPIN AAP-4592). If you have any questions, please email us at business@empayg.com.
+For the purpose of the relevant data protection regulations, the body corporate in charge of your information is Elfreds Commerce LLP of India (LLPIN AAP-4592). If you have any questions, please email us at help@empayg.com.
 
 ### Information we may collect from you
 
@@ -24,7 +24,7 @@ You may give us information about you by filling in forms when registering or us
 
 Your email address is necessary for identification, login, and recovery to EMPAYG account. We also use the provided email for necessary communication to you. You cannot opt out of such “transactional” and “functional” email (unless you delete your account).
 
-Your financial information is necessary for enabling payments between EMPAYG and you. We keep record or sessions and transactions for providing usage statistics, error and dispute redressal, and similar applications.
+Your financial information is necessary for enabling payments between EMPAYG and you. We keep record of sessions and transactions for providing usage statistics, error and dispute redressal, and similar applications.
 
 We do not process your personal information for marketing, profiling, or analytics. We collect, process, and store minimal data. Such data is essential for providing the Services. If you do not consent, you must not use the Services.
 
@@ -56,7 +56,7 @@ The information that we collect from you may be transferred to, and stored at, a
 
 ### You rights over your personal information
 
-Most of the information we hold is available to you via website. You can request all the information by contacting us at business@empayg.com.
+Most of the information we hold is available to you via website. You can request all the information by contacting us at help@empayg.com.
 
 You can delete all the personal information relating to your account, sessions, and transactions anytime using the option available on the website. However, some information (including payment history and information you submit to us while creating revenue id for your web service) may be preserved as required for business and legal purposes.
 
@@ -78,4 +78,4 @@ Our Services may contain links to and from the websites of our partner networks,
 
 Any changes we may make to our privacy policy will be posted on this page and notified to you.
 
-If you feel that we have not addressed your questions or concerns adequately, kindly contact us at business@empayg.com
+If you feel that we have not addressed your questions or concerns adequately, kindly contact us at help@empayg.com
