@@ -1,11 +1,3 @@
-##### Website
-
-[EMPAYG.com](https://empayg.com)
-
-##### Email
-
-[help@empayg.com](mailto:help@empayg.com)
-
 ## Read
 
 [FAQs](https://at.empayg.com/faqs)
@@ -16,8 +8,20 @@
 
 [Privacy Policy](https://at.empayg.com/privacy)
 
-[Media](https://at.empayg.com/media)
+[Blog](https://empayg.blogspot.com)
 
-## News
+##### Website
 
-[Lets start a new web!](https://at.empayg.com/posts/001)
+[EMPAYG.com](https://empayg.com)
+
+##### Email
+
+[help@empayg.com](mailto:help@empayg.com)
+
+#### Social Accounts
+
+Here are links to the offical social accounts:
+
+Twitter: [@EMPAYG](https://twitter.com/EMPAYG)
+
+Facebook: [@EMPAYG](https://facebook.com/EMPAYG)
