@@ -84,4 +84,4 @@ EMPAYG enables you to manage content display using classes for elements. Use emp
 
 Alternatively, if you use other classes to mark the content and other elements separately, you can feed the same in the data-content, data-infomercial, and data-protect attributes in the script code.
 
-Remember if you face any issue, youu can always reach help@empayg.com for assistance. Happy payging!
+Remember if you face any issue, you can always reach help@empayg.com for assistance. Happy payging!
