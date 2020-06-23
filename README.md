@@ -18,9 +18,7 @@
 
 [help@empayg.com](mailto:help@empayg.com)
 
-#### Social Accounts
-
-Here are links to the offical social accounts:
+##### Social Accounts
 
 Twitter: [@EMPAYG](https://twitter.com/EMPAYG)
 
