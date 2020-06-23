@@ -62,15 +62,11 @@ v.	Integrate the service in your website as per the details given below.
 
 Widget script code
 ```html
-<script src="//cdn.empayg.net/js/1.0.min.js"></script>
+<script src="//cdn.empayg.net/js/1.0.min.js" type="text/javascript" id="empayg-script" data-revenueid="UNIQUE-REVENUE-ID" data-position="bottom" data-content="empayg-content" data-infomercial="empayg-infomercial" data-protect="empayg-protect" data-text="Login to see EMPAYG work!"></script>
 ```
-Paste the script code in <head> of your html page. Widget tracks time but pauses after inactivity of 30 seconds up till any activity is again noticed. This is to prevent unintended charges. Also, session is closed if the connection to user is not respondent for 60 seconds.
+Paste the script code in <head> of your html page. Widget tracks time but pauses after inactivity of 60 seconds up till any activity is again noticed. This is to prevent unintended charges. Also, session is closed if the connection to user is not respondent for 60 seconds.
 
-Widget display code
-```html
-<div id="empayg-display" data-revenueid="UNIQUE-REVENUE-ID"></div>
-```
-Replace UNIQUE-REVENUE-ID with the revenue id of your service. Paste the display element in body of your html page (preferably at top). Ensure 100% width of window for the display element; else, certain elements may not appear as intended hampering user experience. However, this does not cause any technical issue in working but only frontend discrepancy. Therefore, feel free to play around with its placement if any other positioning suits your web design better. You can include data-position="bottom" in display element to stick widget to bottom of window until user login (if paid content is more prominent). Also, add data-text="Custom display text" to personalise the widget with a message.
+Replace UNIQUE-REVENUE-ID with the revenue id of your service. You can include data-position="bottom" in display element to stick widget to bottom of window until user login (if paid content is more prominent). Also, add data-text="Custom display text" to personalise the widget with a message. Otherwise, you can remove these two attributes.
 
 Managing display of elements
 ```html
@@ -86,16 +82,6 @@ Managing display of elements
 ```
 EMPAYG enables you to manage content display using classes for elements. Use empayg-infomercial for elements that are hidden after login. Use empayg-content for elements that are presented after login. You do not need to apply any class to consistent content that is not affected by login. Apply empayg-protect to elements that you want to protect from interactions such as selection, copy, download, pointing, and saving. However, don't use empayg-protect on elements where user clicks on link, provides input, or for similar interactions. EMPAYG ensures protection from any breach that may be caused to alter the display of contents.
 
-Advanced content load
-```javascript
-element.addEventListener('unfold', function() { postmate({'session':cookier('empayguid')}, 'https://empayg.net/q/session').then(function(reply) {if (reply=='UNIQUE-REVENUE-ID') {
-  code to load the content after login
-}});});
-element.addEventListener('fold', function() {
-  code to delete the content after logout
-});
-```
-For advanced applications, you can add listeners to our open and close events. EMPAYG broadcasts 'unfold' when a user successfully logins and 'fold' when a logout happens, either due to trigger by user or technical discrepancy. Note that such event listeners should be registered after loading the script code. Add the script code above it in the html file.
+Alternatively, if you use other classes to mark the content and other elements separately, you can feed the same in the data-content, data-infomercial, and data-protect attributes in the script code.
 
 Remember if you face any issue, youu can always reach help@empayg.com for assistance. Happy payging!
-
